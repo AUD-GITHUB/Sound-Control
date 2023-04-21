@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(lightblue 0%, lightgreen 100%);
+    font-family: 'Roboto', sans-serif;
+}
+
+#note {
+    color: crimson;
+    font-weight: bold;
+}
+
+#div-credits {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    background-color: aquamarine;
+}
+
+#type {
+    font-size: 20px;
+}
+
+#accuracy {
+    font-size: 20px;
+}
+
+#type:hover {
+    font-size: 30px;
+}
+
+#accuracy:hover {
+    font-size: 30px;
+}
